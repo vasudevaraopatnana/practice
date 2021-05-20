@@ -18,4 +18,5 @@ int main()
    }
 
    cout << l.size() << endl;
+   return 0;
 }
